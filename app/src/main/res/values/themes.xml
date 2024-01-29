@@ -2,9 +2,9 @@
 <resources>
 
     <style name="Theme.NewsApp" parent="android:Theme.Material.Light.NoActionBar" >
-        <!--  设置透明状态栏  -->
-        <item name="android:windowTranslucentStatus">true</item>
-        <!--  设置透明导航栏  -->
-        <item name="android:windowTranslucentNavigation">true</item>
+<!--        &lt;!&ndash;  设置透明状态栏  &ndash;&gt;-->
+<!--        <item name="android:windowTranslucentStatus">true</item>-->
+<!--        &lt;!&ndash;  设置透明导航栏  &ndash;&gt;-->
+<!--        <item name="android:windowTranslucentNavigation">true</item>-->
     </style>
 </resources>
