@@ -21,7 +21,7 @@ import com.hgm.newsapp.R
 import com.hgm.newsapp.presentation.Dimens.MediumPadding1
 import com.hgm.newsapp.presentation.Dimens.MediumPadding2
 import com.hgm.newsapp.presentation.onboarding.Page
-import com.hgm.newsapp.ui.theme.NewsAppTheme
+import com.hgm.newsapp.core.ui.theme.NewsAppTheme
 
 /**
  * @author：HGM

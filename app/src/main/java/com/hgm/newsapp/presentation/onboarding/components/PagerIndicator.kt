@@ -12,7 +12,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Color
 import com.hgm.newsapp.presentation.Dimens.IndicatorSize
-import com.hgm.newsapp.ui.theme.BlueGray
+import com.hgm.newsapp.core.ui.theme.BlueGray
 
 @Composable
 fun PagerIndicator(

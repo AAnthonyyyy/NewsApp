@@ -1,4 +1,4 @@
-package com.hgm.newsapp.ui.theme
+package com.hgm.newsapp.core.ui.theme
 
 import android.app.Activity
 import android.os.Build

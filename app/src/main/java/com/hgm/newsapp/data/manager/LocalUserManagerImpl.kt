@@ -8,8 +8,8 @@ import androidx.datastore.preferences.core.booleanPreferencesKey
 import androidx.datastore.preferences.core.edit
 import androidx.datastore.preferences.preferencesDataStore
 import com.hgm.newsapp.domain.manager.LocalUserManager
-import com.hgm.newsapp.util.Constants
-import com.hgm.newsapp.util.Constants.USER_SETTINGS
+import com.hgm.newsapp.core.util.Constants
+import com.hgm.newsapp.core.util.Constants.USER_SETTINGS
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.map
 

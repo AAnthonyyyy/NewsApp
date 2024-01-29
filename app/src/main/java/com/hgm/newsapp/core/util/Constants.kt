@@ -1,4 +1,4 @@
-package com.hgm.newsapp.util
+package com.hgm.newsapp.core.util
 
 /**
  * @author：HGM
