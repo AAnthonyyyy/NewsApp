@@ -30,7 +30,7 @@ import com.hgm.newsapp.ui.theme.NewsAppTheme
  **/
 @Composable
 fun OnBoardingPage(
-      modifier: Modifier=Modifier,
+      modifier: Modifier = Modifier,
       page: Page
 ) {
       Column(modifier = modifier) {
